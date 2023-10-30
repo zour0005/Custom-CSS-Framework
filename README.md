@@ -23,7 +23,7 @@ To use the Custom CSS Framework, simply add the appropriate classes to your HTML
 
 To customize the framework's theme, modify the variables in the `_variables.scss` file.
 
-NOTE: Due I don't have a team for this project, the other two (Theme) elements are 
+NOTE: Due I don't have a team for this project, I added two other new elemets for the (Theme) and one other new elemnt for the (Utilities):
 
 - Colours 
 - Fonts.
