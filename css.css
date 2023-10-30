@@ -1,12 +1,18 @@
-├── css/
-│   └── main.css
-├── sass/
+custom-css-framework/
+│
+├── src/
 │   ├── _variables.scss
 │   ├── _reset.scss
 │   ├── _typography.scss
 │   ├── _buttons.scss
 │   ├── _utilities.scss
-│   └── main.scss
+│   ├── main.scss
+│
+├── dist/
+│   ├── main.css
+│
 ├── index.html
 ├── README.md
-└── LICENSE
+
+
+node-sass src/main.scss dist/main.css
